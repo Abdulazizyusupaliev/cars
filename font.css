@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Red Hat Display';
+    src: url(../font/Red_Hat_Display/RedHatDisplay-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Red Hat Display';
+    src: url(../font/Red_Hat_Display/RedHatDisplay-SemiBold.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Red Hat Display';
+    src: url(../font/Red_Hat_Display/RedHatDisplay-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Red Hat Display';
+    src: url(../font/Red_Hat_Display/RedHatDisplay-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Red Hat Display';
+    src: url(../font/Red_Hat_Display/RedHatDisplay-Black.ttf);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Nova Square';
+    src: url(../font/Nova_Square/NovaSquare-Regular.ttf);
+    font-weight: 400;
+}
